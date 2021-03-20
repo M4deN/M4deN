@@ -5,7 +5,7 @@
 
 Hello, my name is Alécio Leandro De Medeiros, i'm from brazil currently studying software engineering at the federal technological university of paraná.
 I entered the world of programming in 2018.    
-Currently I have studied C, Java, HTML, CSS, MySQL, PostgreeSQL.   
+Currently I have studied C, Java, HTML, CSS, MySQL, PostgreeSQL, Git, GiHub.   
  I am interested in Learning Python, JavaScript and Ruby. I also intend to enter the world of Machine Learning.
 
 * From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
