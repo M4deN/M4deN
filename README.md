@@ -1,4 +1,4 @@
-# Alécio L. Medeiros💻
+# Alécio L. Medeiros💻  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexDeSaran&repo=AlexDeSaran&countColorvountColor)
 ***
 Hello, my name is Alécio Leandro De Medeiros, i'm from brazil currently studying software engineering at the federal technological university of paraná.
 I entered the world of programming in 2018.    
