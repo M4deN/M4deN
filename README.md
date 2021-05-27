@@ -1,5 +1,16 @@
-# Alécio L. Medeiros💻  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexDeSaran&repo=AlexDeSaran&countColorvountColor)
-***
+# Alécio L. Medeiros💻  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexDeSaran&repo=AlexDeSaran&countColorvountColor )
+<p align="center">
+<a href="https://github.com/AlexDeSaran">
+<div>
+  <div>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexDeSaran&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 40%;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexDeSaran&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/>
+  </div>
+</div>
+</a>
+</p>
+
+*** 
 Hello, my name is Alécio Leandro De Medeiros, i'm from brazil currently studying software engineering at the federal technological university of paraná.
 I entered the world of programming in 2018.    
 Currently I have studied C, Java, HTML, CSS, MySQL, PostgreeSQL, Git, GiHub.   
@@ -9,7 +20,9 @@ Currently I have studied C, Java, HTML, CSS, MySQL, PostgreeSQL, Git, GiHub.
 * Student [Federal Technological University Of Paraná](http://www.utfpr.edu.br/)
 
  
-[![instagram Badge](https://img.shields.io/badge/-AlexDeSaran-6633cc?style=flat-square&labelColor=6633cc&logo=INSTAGRAM&logoColor=white&link=https://www.instagram.com/alexdesaran/)](https://www.instagram.com/alexdesaran/) [![Linkedin Badge](https://img.shields.io/badge/-Alécio%20Medeiros-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](http://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3) [![Gmail Badge](https://img.shields.io/badge/-AlexLeandro-6633cc?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/alex.leandro.0007)](https://www.facebook.com/alex.leandro.0007) 
+[![instagram Badge](https://img.shields.io/badge/-AlexDeSaran-6633cc?style=flat-square&labelColor=6633cc&logo=INSTAGRAM&logoColor=white&link=https://www.instagram.com/alexdesaran/)](https://www.instagram.com/alexdesaran/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Alécio%20Medeiros-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](http://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3) 
+[![Gmail Badge](https://img.shields.io/badge/-AlexLeandro-6633cc?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/alex.leandro.0007)](https://www.facebook.com/alex.leandro.0007) 
 
 
 
