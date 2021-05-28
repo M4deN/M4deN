@@ -1,4 +1,7 @@
-# Alécio L. Medeiros💻  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexDeSaran&repo=AlexDeSaran&countColorvountColor )
+# Alécio L. Medeiros💻  ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AlexDeSaran&repo=AlexDeSaran&countColorvountColor)
+
+***
+
 <p align="center">
 <a href="https://github.com/AlexDeSaran">
 <div>
@@ -11,10 +14,7 @@
 </p>
 
 *** 
-Hello, my name is Alécio Leandro De Medeiros, i'm from brazil currently studying software engineering at the federal technological university of paraná.
-I entered the world of programming in 2018.    
-Currently I have studied C, Java, HTML, CSS, MySQL, PostgreeSQL, Git, GiHub.   
- I am interested in Learning Python, JavaScript and Ruby. I also intend to enter the world of Machine Learning.
+
 
 * From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
 * Student [Federal Technological University Of Paraná](http://www.utfpr.edu.br/)
