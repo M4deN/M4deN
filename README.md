@@ -5,13 +5,13 @@
 <p>
   <a href="https://github.com/AlexDeSaran/github-readme-stats">
     <img
-      height="170" 
+      height="156" 
       src="https://github-readme-stats.vercel.app/api?username=AlexDeSaran&count_private=true&show_icons=true&custom_title=Alex's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
     />
     </a>
   <a href="https://github.com/cunhasbia/github-readme-stats">
     <img
-      height="170"
+      height="156"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDeSaran&&layout=compact&theme=vision-friendly-dark&langs_count=8)"
     />
   </a>
