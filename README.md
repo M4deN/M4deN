@@ -2,16 +2,21 @@
 
 ***
 
-<p align="center">
-<a href="https://github.com/AlexDeSaran">
-<div>
-  <div>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexDeSaran&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 40%;"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexDeSaran&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/>
-  </div>
-</div>
-</a>
-</p>
+<p>
+  <a href="https://github.com/AlexDeSaran/github-readme-stats">
+    <img
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api?username=AlexDeSaran&count_private=true&show_icons=true&custom_title=Alex's%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
+    />
+  </a>
+  
+  <a href="https://github.com/cunhasbia/github-readme-stats">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDeSaran&&layout=compact&theme=vision-friendly-dark&langs_count=8)"
+    />
+  </a>
+<p>
 
 *** 
 
