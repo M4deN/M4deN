@@ -31,7 +31,6 @@
 
 
  ***
-
  <p align = "center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img   
                                                                                                                                    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="40" height="40"/><img                                                                               
