@@ -1,4 +1,4 @@
-# Alécio L. Medeiros💻 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/AlexDeSaran)](https://github.com/AlexDeSaran)
+# Alécio L. Medeiros💻 
 
 ***
 
