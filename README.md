@@ -30,7 +30,6 @@
   [![Spotify Badge](https://img.shields.io/badge/-Spotify-blue?style=flat-square&logo=Spotify&logoColor=white&link=https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](https://open.spotify.com/user/12184345488?si=DGO8ME3ZTea6fmAilHs3iQ&utm_source=copy-link&nd=1)
 
 
-
  ***
 
  <p align = "center">
