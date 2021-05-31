@@ -19,7 +19,6 @@
 
 *** 
 
-
 * From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
 * Student [Federal Technological University Of Paraná](http://www.utfpr.edu.br/)
 
