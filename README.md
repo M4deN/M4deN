@@ -28,7 +28,7 @@
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](https://www.facebook.com/alex.leandro.0007)
    [![Email Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](mailto:alexdesaran@outlook.com)
   [![Spotify Badge](https://img.shields.io/badge/-Spotify-blue?style=flat-square&logo=Spotify&logoColor=white&link=https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](https://open.spotify.com/user/12184345488?si=DGO8ME3ZTea6fmAilHs3iQ&utm_source=copy-link&nd=1)
-  [![Steam Badge](https://img.shields.io/badge/-Steam-blue?style=flat-square&logo=Steam&logoColor=white&link=https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](https://steamcommunity.com/profiles/76561199173160973)
+  
 
  ***
  <p align = "center">
