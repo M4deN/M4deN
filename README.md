@@ -33,7 +33,7 @@
  ***
  <p align = "center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img   
-                                                                                                                                   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="40" height="40"/><img                                                                               
+  <img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="VSCode" width="40" height="40"/><img                                                                               
 src="https://github.com/urielcaire/aprendamd/blob/master/imgs/github.png" alt="github" width="40" height="40"/><img                                                               src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img
   src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/><img
