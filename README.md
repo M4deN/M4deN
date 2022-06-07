@@ -45,7 +45,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e
   </table>  
 <hr/>
 
-<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+
 
 
 
