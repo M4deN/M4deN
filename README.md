@@ -13,13 +13,25 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDeSaran&&layout=compact&theme=vision-friendly-dark&langs_count=8)"
     />
   </a>
-<p>
 
 *** 
 
 * From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
 * Student [Federal Technological University Of Paraná](http://www.utfpr.edu.br/)
 * It Works [Tata Consultancy Services](https://www.tcs.com/)  
+
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=AlexDeSaran" alt="AlexDeSaran"/>       
+    <!--<a href="https://github.com/AlexDeSaran?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/AlexDeSaran" alt="Repos"/></a>--> 
+    <!--<img src="https://badges.pufler.dev/years/AlexDeSaran" alt="Active_Years"/>-->  
+    <!--<a href="https://github.com/AlexDeSaran/AlexDeSaran" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/AlexDeSaran" alt="commits"/>--> 
+    <a href="https://github.com/AlexDeSaran/AlexDeSaran/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/AlexDeSaran/AlexDeSaran" /></a>
+    <a href="https://github.com/AlexDeSaran?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/AlexDeSaran?color=4C1&logo=github"></a>
+    <a href="https://github.com/AlexDeSaran/AlexDeSaran" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/AlexDeSaran/AlexDeSaran?label=Profile%20update&style=fflat-square"></a>
+    <!--<a href="https://github.com/AlexDeSaran" target="_blank"><img alt="AlexDeSaran" src="https://badges.pufler.dev/visits/AlexDeSaran/AlexDeSaran?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
+    <!--<img src="https://badges.pufler.dev/gists/AlexDeSaran" alt="AlexDeSaran"/>-->
+    <!--<img src="https://readme-jokes.vercel.app/api" alt="AlexDeSaran"/>-->
+</p> 
 
  ***
  <p align = "center">
