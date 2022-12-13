@@ -19,16 +19,7 @@
 
 * From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
 * Student [Federal Technological University Of Paraná](http://www.utfpr.edu.br/)
-* It Works [Tata Consultancy Services](https://www.tcs.com/)
-
-
- 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttp://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](http://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3) 
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](https://www.instagram.com/alexdesaran/) 
-  [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](https://www.facebook.com/alex.leandro.0007)
-   [![Email Badge](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](mailto:alexdesaran@outlook.com)
-  [![Spotify Badge](https://img.shields.io/badge/-Spotify-blue?style=flat-square&logo=Spotify&logoColor=white&link=https://www.linkedin.com/in/alex-leandro-medeiros-5b68741a3/)](https://open.spotify.com/user/12184345488?si=DGO8ME3ZTea6fmAilHs3iQ&utm_source=copy-link&nd=1)
-  
+* It Works [Tata Consultancy Services](https://www.tcs.com/)  
 
  ***
  <p align = "center">
@@ -49,6 +40,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e
   </table>  
 <hr/>
 
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/alecio-leandro-medeiros-5b68741a3/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="https://www.instagram.com/alexdesaran" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="https://www.facebook.com/alex.leandro.0007/" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
+    <a href="mailto:alexdesaran@outlook.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+</p>  
 
 
 
