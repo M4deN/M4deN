@@ -4,7 +4,7 @@
   <a href="https://github.com/AlexDeSaran/github-readme-stats">
     <img
       height="156" 
-      src="https://github-readme-stats.vercel.app/api?username=AlexDeSaran&count_private=true&show_icons=true&custom_title=Alex%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=AlexDeSaran&count_private=true&show_icons=true&custom_title=Alecio%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
     />
     </a>
   <a href="https://github.com/AlexDeSaran/github-readme-stats">
@@ -17,7 +17,7 @@
 *** 
 
 * From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
-* Student [Federal Technological University Of Paraná](http://www.utfpr.edu.br/)
+* Student [Federal Technological University Paraná](http://www.utfpr.edu.br/)
 * It Works [Tata Consultancy Services](https://www.tcs.com/)  
 
 <p align="center"> 
