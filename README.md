@@ -18,7 +18,7 @@
 
 * From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
 * Student [Federal Technological University Paraná](http://www.utfpr.edu.br/)
-* It Works [Tata Consultancy Services](https://www.tcs.com/)  
+* It Works [Tata Consultancy Services](https://www.tcs.com/) And [Hoffmann–La Roche](https://www.roche.com.br/)
  
 
  ***
