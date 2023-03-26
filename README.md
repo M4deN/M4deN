@@ -49,7 +49,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e
     <a href="https://www.facebook.com/alex.leandro.0007/" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
     <a href="mailto:alexdesaran@outlook.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
-
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=12184345488&count=3"width="100%"height="200" >
+  <img 
+  <img <--
  <br>
  <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=AlexDeSaran" alt="AlexDeSaran"/>       
