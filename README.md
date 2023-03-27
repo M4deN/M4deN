@@ -22,6 +22,7 @@
  
 
  ***
+  
  <p align = "center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img   
   <img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="VSCode" width="40" height="40"/><img                                                                               
@@ -49,18 +50,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e
     <a href="https://www.facebook.com/alex.leandro.0007/" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
     <a href="mailto:alexdesaran@outlook.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=12184345488&count=3"width="100%"height="200" >
-  <img 
-  <img <--
- <br>
  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=AlexDeSaran" alt="AlexDeSaran"/>       
+    <img src="https://komarev.com/ghpvc/?username=M4deN" alt="M4deN"/>       
     <!--<a href="https://github.com/AlexDeSaran?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/AlexDeSaran" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/AlexDeSaran" alt="Active_Years"/>-->  
     <!--<a href="https://github.com/AlexDeSaran/AlexDeSaran" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/AlexDeSaran" alt="commits"/>--> 
-    <a href="https://github.com/AlexDeSaran/AlexDeSaran/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/AlexDeSaran/AlexDeSaran" /></a>
-    <a href="https://github.com/AlexDeSaran?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/AlexDeSaran?color=4C1&logo=github"></a>
-    <a href="https://github.com/AlexDeSaran/AlexDeSaran" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/AlexDeSaran/AlexDeSaran?label=Profile%20update&style=fflat-square"></a>
+    <a href="https://github.com/M4deN/M4deN/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/M4deN/M4deN" /></a>
+    <a href="https://github.com/M4deN?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/M4deN?color=4C1&logo=github"></a>
+    <a href="https://github.com/M4deN/M4deN" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/M4deN/M4deN?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/AlexDeSaran" target="_blank"><img alt="AlexDeSaran" src="https://badges.pufler.dev/visits/AlexDeSaran/AlexDeSaran?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!--<img src="https://badges.pufler.dev/gists/AlexDeSaran" alt="AlexDeSaran"/>-->
     <!--<img src="https://readme-jokes.vercel.app/api" alt="AlexDeSaran"/>-->
