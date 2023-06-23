@@ -1,18 +1,11 @@
 ***
 
 <p>
-  <a href="https://github.com/AlexDeSaran/github-readme-stats">
-    <img
-      height="156" 
-      src="https://github-readme-stats.vercel.app/api?username=M4deN&count_private=true&show_icons=true&custom_title=Alecio%20Github%20Stats&hide=issues&theme=vision-friendly-dark"
-    />
-    </a>
-  <a href="https://github.com/M4deN/github-readme-stats">
-    <img
-      height="156"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&&layout=compact&theme=vision-friendly-dark&langs_count=8)"
-    />
-  </a>
+  <div align="center">
+  <a href="https://github.com/M4deN">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
 *** 
 
