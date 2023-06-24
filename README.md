@@ -17,14 +17,19 @@
  <p align = "center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img   
 <img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="VSCode" width="40" height="40"/><img                                                                               
-src="https://github.com/urielcaire/aprendamd/blob/master/imgs/github.png" alt="github" width="40" height="40"/><img                                                               src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/><img
+src="https://github.com/urielcaire/aprendamd/blob/master/imgs/github.png" alt="github" width="40" height="40"/><img                                                               src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/><img
 src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/mysql.png" alt="mysql" width="45" height="45"/><img
-src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="45" height="50"/><img  src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" alt="junit5" width="36" height="40"/><img
+src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="node" width="45" height="45"/><img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/mysql.png" alt="mysql" width="45" height="45"/><img    
+src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" alt="java" width="45" height="50"/><img  
 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" width="40" height="40"/><img 
-src="https://opencollective-production.s3-us-west-1.amazonaws.com/efa23630-0509-11e8-bf7d-fb9c62253aad.png" alt="selenium" width="40" height="40"/><img 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/>                                  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain-wordmark.svg" alt="windows" width="40" height="40"/>
+src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_cypress.svg" alt="cypress" width="48" height="43"/><img 
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/>                                  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/windows8/windows8-original.svg" alt="android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_mongo.svg" alt="mongo" width="44" height="44"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_mocha.svg" alt="mocha" width="47" height="47"/>
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/folder_type_e2e.svg" alt="e2e" width="47" height="47"/>
+
  </p>
   </table>  
 <hr/>
@@ -33,10 +38,11 @@ src="https://opencollective-production.s3-us-west-1.amazonaws.com/efa23630-0509-
 </h3> 
 <p align="center">
     <a href="https://www.linkedin.com/in/alecio-leandro-medeiros-5b68741a3/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="https://www.instagram.com/alexdesaran" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
+    <a href="https://www.instagram.com/madenx_" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="https://www.facebook.com/alex.leandro.0007/" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
     <a href="mailto:alexdesaran@outlook.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
     <a href="https://open.spotify.com/user/12184345488" target="_blank"><img alt="Spotify" width="27px" src="https://github.com/darksonic37/fix-spotify-icon/blob/master/src/images/spotify-linux-512.png?raw=true"></a> 
+    <a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img alt="Discord" width="29px" src="https://github.com/SapphireDevs/discord-icons/blob/main/Discord%20Branding/Clyde/icon_clyde_blurple_RGB.png?raw=true"></a> 
 </p>  
  <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=M4deN" alt="M4deN"/>       
