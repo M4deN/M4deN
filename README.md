@@ -36,6 +36,7 @@ src="https://opencollective-production.s3-us-west-1.amazonaws.com/efa23630-0509-
     <a href="https://www.instagram.com/alexdesaran" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="https://www.facebook.com/alex.leandro.0007/" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
     <a href="mailto:alexdesaran@outlook.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+    <a href="https://open.spotify.com/user/12184345488" target="_blank"><img alt="Spotify" width="27px" src="https://github.com/darksonic37/fix-spotify-icon/blob/master/src/images/spotify-linux-512.png?raw=true"></a> 
 </p>  
  <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=M4deN" alt="M4deN"/>       
