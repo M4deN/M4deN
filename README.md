@@ -39,9 +39,10 @@ src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5
     <a href="https://www.linkedin.com/in/alecio-leandro-medeiros-5b68741a3/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
     <a href="https://www.instagram.com/madenx_" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
     <a href="https://www.facebook.com/alex.leandro.0007/" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
+    <a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img alt="Discord" width="30px" src="https://github.com/SapphireDevs/discord-icons/blob/main/Discord%20Branding/Clyde/icon_clyde_blurple_RGB.png?raw=true"></a> 
     <a href="mailto:alexdesaran@outlook.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
     <a href="https://open.spotify.com/user/12184345488" target="_blank"><img alt="Spotify" width="27px" src="https://github.com/darksonic37/fix-spotify-icon/blob/master/src/images/spotify-linux-512.png?raw=true"></a> 
-    <a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img alt="Discord" width="29px" src="https://github.com/SapphireDevs/discord-icons/blob/main/Discord%20Branding/Clyde/icon_clyde_blurple_RGB.png?raw=true"></a> 
+  
 </p>  
  <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=M4deN" alt="M4deN"/>       
