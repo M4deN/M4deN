@@ -9,22 +9,21 @@
 *** 
 
 * From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
-* Student [Federal Technological University Paraná](http://www.utfpr.edu.br/)
+* Student Software Engineer [Federal Technological University Paraná](http://www.utfpr.edu.br/)
 * It Works [Tata Consultancy Services](https://www.tcs.com/) And [Hoffmann–La Roche](https://www.roche.com.br/) 
 
  ***
  
- <p align = "center">
+<p align = "center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img   
-<img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="VSCode" width="40" height="40"/><img                                                                               
-src="https://github.com/urielcaire/aprendamd/blob/master/imgs/github.png" alt="github" width="40" height="40"/><img                                                               src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/><img
+<img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="VSCode" width="40" height="40"/><img                                                                                            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/><img
 src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/><img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/mysql.png" alt="mysql" width="45" height="45"/><img    
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="mysql" width="40" height="40"/><img src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/mysql.png" alt="mysql" width="45" height="45"/><img                                                                                                                                                                                      src="https://pngimg.com/uploads/github/github_PNG28.png" alt="github" width="40" height="40"/><img      
 src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_java.svg" alt="java" width="52" height="51"/><img  
 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" width="40" height="40"/><img 
 src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_cypress.svg" alt="cypress" width="48" height="43"/><img 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/>                                  
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_mocha.svg" alt="mocha" width="47" height="47"/>
+<img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="42" height="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/folder_type_e2e.svg" alt="e2e" width="47" height="47"/>
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_mongo.svg" alt="mongo" width="44" height="44"/>
