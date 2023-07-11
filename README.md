@@ -43,8 +43,8 @@
     <img src="https://komarev.com/ghpvc/?username=M4deN" alt="M4deN"/>       
     <!--<a href="https://github.com/AlexDeSaran?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/AlexDeSaran" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/AlexDeSaran" alt="Active_Years"/>-->  
-    <!--<a href="https://github.com/AlexDeSaran/AlexDeSaran" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/AlexDeSaran" alt="commits"/>--> 
-    <a href="https://github.com/M4deN/M4deN/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/M4deN/M4deN" /></a>
+    <a href="https://github.com/M4deN/M4deN" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/M4deN" alt="commits"/>
+    <a href="https://github.com/M4deN/M4deN" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/M4deN/M4deN"/></a>
     <a href="https://github.com/M4deN?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/M4deN?color=4C1&logo=github"></a>
     <a href="https://github.com/M4deN/M4deN" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/M4deN/M4deN?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/AlexDeSaran" target="_blank"><img alt="AlexDeSaran" src="https://badges.pufler.dev/visits/AlexDeSaran/AlexDeSaran?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->   
