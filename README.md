@@ -11,23 +11,29 @@
 *  Quality Assurance [Tata Consultancy Services](https://www.tcs.com/) And [Hoffmann–La Roche](https://www.roche.com.br/) 
 
  ***
- 
-<p align = "center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img   
-<img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="VSCode" width="40" height="40"/><img                                                                                            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/><img
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/><img
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/><img  
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_java.svg" alt="java" width="52" height="51"/><img                                              <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg"  alt="selenium" width="40" height="40"/><img  
-<img src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/mysql.png" alt="mysql" width="45" height="45"/><img    
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_cypress.svg" alt="cypress" width="48" height="43"/><img 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/><img                              
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="js" width="35" height="35"/><img 
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/folder_type_e2e.svg" alt="e2e" width="47" height="47"/><img 
-<img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="37" height="37"/><img                                                                                                 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_mongo.svg" alt="mongo" width="44" height="44"/><img 
-
- </p>
-  </table>  
-<hr/>
+![Javascript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=oracle&logoColor=E42C2E)
+![Node](https://img.shields.io/badge/Node-black?style=flat-square&logo=node.js)
+![Maven](https://img.shields.io/badge/Maven-black?style=flat-square&logo=apache-maven&logoColor=C71A36)
+![Yarn](https://img.shields.io/badge/Yarn-black?style=flat-square&logo=yarn)
+![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=D90092)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![VSCode](https://img.shields.io/badge/VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=2D9EE9)
+![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows&logoColor=0174CF)
+![MySql](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
+![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
+![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium)
+![Android](https://img.shields.io/badge/Android-black?style=flat-square&logo=androidstudio)
+![Mongo](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
+![Npm](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia)
+![Eclipse](https://img.shields.io/badge/Eclipse-black?style=flat-square&logo=eclipse)
+[![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/M4deN)
+[![Gitlab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab)](https://gitlab.com/M4deN)</div>
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
