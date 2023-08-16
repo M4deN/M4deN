@@ -32,6 +32,8 @@
 ![Npm](https://img.shields.io/badge/NPM-black?style=flat-square&logo=npm)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia)
 ![Eclipse](https://img.shields.io/badge/Eclipse-black?style=flat-square&logo=eclipse)
+![CSharp](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
+![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
 [![Github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github)](https://github.com/M4deN)
 [![Gitlab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab)](https://gitlab.com/M4deN)</div>
 <div align="center">
