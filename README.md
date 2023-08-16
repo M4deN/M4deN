@@ -31,9 +31,9 @@
 ![Mongo](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb)
 ![Npm](https://img.shields.io/badge/NPM-333333?style=flat-square&logo=npm)
 ![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat-square&logo=insomnia)
+![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=c)
 ![Eclipse](https://img.shields.io/badge/Eclipse-333333?style=flat-square&logo=eclipse)
 ![CSharp](https://img.shields.io/badge/CSharp-333333?style=flat-square&logo=csharp)
-![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=c)
 [![Github](https://img.shields.io/badge/Github-333333?style=flat-square&logo=github)](https://github.com/M4deN)
 [![Gitlab](https://img.shields.io/badge/Gitlab-333333?style=flat-square&logo=gitlab)](https://gitlab.com/M4deN)</div>
 <div align="center">
