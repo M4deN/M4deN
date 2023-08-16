@@ -34,6 +34,10 @@
 ![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=c)
 ![Eclipse](https://img.shields.io/badge/Eclipse-333333?style=flat-square&logo=eclipse)
 ![CSharp](https://img.shields.io/badge/CSharp-333333?style=flat-square&logo=csharp)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Robot](https://img.shields.io/badge/Robot-333333?style=flat-square&logo=robot)
+![JUnit](https://img.shields.io/badge/JUnit-333333?style=flat-square&logo=junit5)
+![Mockito](https://img.shields.io/badge/Mockito-333333?style=flat-square&logo=mockito)
 [![Github](https://img.shields.io/badge/Github-333333?style=flat-square&logo=github)](https://github.com/M4deN)
 [![Gitlab](https://img.shields.io/badge/Gitlab-333333?style=flat-square&logo=gitlab)](https://gitlab.com/M4deN)</div>
 <div align="center">
