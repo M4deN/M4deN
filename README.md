@@ -25,6 +25,7 @@
 ![Postman](https://img.shields.io/badge/Postman-333333?style=flat-square&logo=postman)
 ![CSS](https://img.shields.io/badge/CSS-333333?style=flat-square&logo=css3)
 ![HTML](https://img.shields.io/badge/HTML-333333?style=flat-square&logo=html5)
+![Mockito](https://img.shields.io/badge/Mockito-333333?style=flat-square&logo=junit5)
 ![Express](https://img.shields.io/badge/Express-333333?style=flat-square&logo=express)
 ![Selenium](https://img.shields.io/badge/Selenium-333333?style=flat-square&logo=selenium)
 ![Android](https://img.shields.io/badge/Android-333333?style=flat-square&logo=androidstudio)
@@ -35,9 +36,9 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-333333?style=flat-square&logo=eclipse)
 ![CSharp](https://img.shields.io/badge/CSharp-333333?style=flat-square&logo=csharp)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Robot](https://img.shields.io/badge/Robot-333333?style=flat-square&logo=robot)
+![Robot](https://img.shields.io/badge/Robot-333333?style=flat-square&logo=robotframework)
 ![JUnit](https://img.shields.io/badge/JUnit-333333?style=flat-square&logo=junit5)
-![Mockito](https://img.shields.io/badge/Mockito-333333?style=flat-square&logo=mockito)
+![TestNG](https://img.shields.io/badge/TestNG-333333?style=flat-square&logo=markdown)
 [![Github](https://img.shields.io/badge/Github-333333?style=flat-square&logo=github)](https://github.com/M4deN)
 [![Gitlab](https://img.shields.io/badge/Gitlab-333333?style=flat-square&logo=gitlab)](https://gitlab.com/M4deN)</div>
 <div align="center">
