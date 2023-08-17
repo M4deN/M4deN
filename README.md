@@ -29,7 +29,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-333333?style=flat-square&logo=selenium)
 ![Android](https://img.shields.io/badge/Android-333333?style=flat-square&logo=androidstudio)
 ![Mongo](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb)
-![Npm](https://img.shields.io/badge/NPM-333333?style=flat-square&logo=npm)
+![Npm](https://img.shields.io/badge/Npm-333333?style=flat-square&logo=npm)
 ![Insomnia](https://img.shields.io/badge/Insomnia-333333?style=flat-square&logo=insomnia)
 ![C](https://img.shields.io/badge/C-333333?style=flat-square&logo=c)
 ![Eclipse](https://img.shields.io/badge/Eclipse-333333?style=flat-square&logo=eclipse)
