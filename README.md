@@ -39,6 +39,7 @@
 ![Robot](https://img.shields.io/badge/Robot-333333?style=flat-square&logo=robotframework)
 ![JUnit](https://img.shields.io/badge/JUnit-333333?style=flat-square&logo=junit5)
 ![TestNG](https://img.shields.io/badge/TestNG-333333?style=flat-square&logo=markdown)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python)
 ![Appium](https://img.shields.io/badge/Appium-333333?style=flat-square&logo=microsoftedge)
 [![Github](https://img.shields.io/badge/Github-333333?style=flat-square&logo=github)](https://github.com/M4deN)
 [![Gitlab](https://img.shields.io/badge/Gitlab-333333?style=flat-square&logo=gitlab)](https://gitlab.com/M4deN)</div>
