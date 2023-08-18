@@ -7,8 +7,8 @@
 
 *** 
 * Student Software Engineer [Federal Technological University Paraná](http://www.utfpr.edu.br/)
-* From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1) Living In [Londrina ](https://pt.wikipedia.org/wiki/Londrina)
-*  Quality Assurance [Tata Consultancy Services](https://www.tcs.com/) And [Hoffmann–La Roche](https://www.roche.com.br/) 
+* From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1)
+*  Quality Assurance [Tata Consultancy Services](https://www.tcs.com/) 
 
  ***
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
