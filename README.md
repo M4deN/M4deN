@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg" alt="css3" width="37" height="37"/><img
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/><img  
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_java.svg" alt="java" width="40" height="40"/><img                                              
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg"  alt="selenium" width="30" height="30"/><img  
+<img src="https://github.com/SeleniumHQ/selenium/blob/trunk/common/images/selenium_logo_mark_green.svg"  alt="selenium" width="30" height="30"/><img  
 <img src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/mysql.png" alt="mysql" width="35" height="35"/><img    
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_cypress.svg" alt="cypress" width="38" height="35"/><img 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="android" width="35" height="35"/><img                              
