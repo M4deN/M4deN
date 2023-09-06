@@ -8,7 +8,7 @@
 *** 
 * Student Software Engineer [Federal Technological University Paraná](http://www.utfpr.edu.br/)
 * From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1)
-*  Quality Assurance [Tata Consultancy Services](https://www.tcs.com/) 
+*  Quality Assurance Full-Stack [Tata Consultancy Services](https://www.tcs.com/) 
 
  ***
  <p align = "center">
@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_java.svg" alt="java" width="40" height="40"/><img                                              
 <img src="https://github.com/SeleniumHQ/selenium/blob/trunk/common/images/selenium_logo_mark_green.svg"  alt="selenium" width="30" height="30"/><img  
 <img src="https://raw.githubusercontent.com/marcelodib/marcelodib/master/assets/mysql.png" alt="mysql" width="35" height="35"/><img    
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_cypress.svg" alt="cypress" width="38" height="35"/><img 
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_cypress.svg" alt="cypress" width="38" height="37"/><img 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="android" width="35" height="35"/><img                              
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="js" width="30" height="30"/><img 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/folder_type_e2e.svg" alt="e2e" width="37" height="37"/><img 
