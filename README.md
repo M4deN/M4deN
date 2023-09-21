@@ -27,13 +27,9 @@
 <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="33" height="33"/><img 
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-plain.svg" alt="docker" width="38" height="38"/><img  
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="c#" width="33" height="33"/><img 
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="35" height="35"/><img
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/><img   
-<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="35" height="35"/><img   
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/><img     
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/><img  
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="35" height="35"/><img    
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="blender" width="35" height="35"/><img  
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" alt="pytest" width="37" height="37"/><img  
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" alt="gitlab" width="31" height="31"/><img  
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_mongo.svg" alt="mongo" width="34" height="34"/><img 
 </a>
