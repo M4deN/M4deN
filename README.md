@@ -1,8 +1,8 @@
 ***
 <div align="center">
   <a href="https://github.com/M4deN">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&langs_count=8&theme=dark"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=radical"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 *** 
