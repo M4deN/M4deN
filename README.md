@@ -1,6 +1,6 @@
 ### Hello, I'm Leandro A. Medeiros 😄
 
-I am a Software Engineer graduated from [Federal Technological University Paraná](http://www.utfpr.edu.br/), I am currently living in Londrina PR working as Quality Assurance Analyst at [Tata Consultancy Services](https://www.tcs.com/) fascinated by test automation and JavaScript, TypeScript, Cypress and a fan of good music, gardening, cycling and football.
+I am an almost Software Engineer graduated from [Federal Technological University Paraná](http://www.utfpr.edu.br/), I am currently living in Londrina PR working as Quality Assurance Analyst at [Tata Consultancy Services](https://www.tcs.com/) fascinated by test automation and JavaScript, TypeScript, Cypress and a fan of good music, gardening, cycling, tennis and football.
 
 
 
