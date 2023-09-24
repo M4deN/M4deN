@@ -1,14 +1,15 @@
+### Hello, I'm Leandro A. Medeiros 😄
+
+I am a Software Engineer graduated from [Federal Technological University Paraná](http://www.utfpr.edu.br/), I am currently living in Londrina PR working as Quality Assurance Analyst at [Tata Consultancy Services](https://www.tcs.com/) fascinated by test automation and JavaScript, TypeScript, Cypress and a fan of good music, gardening, cycling and football.
+
+
+
 ***
 <div align="center">
   <a href="https://github.com/M4deN">
   <img height="172em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=radical"/>
   <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&langs_count=8&theme=radical"/>
 </div>
-
-*** 
-* Student Software Engineer [Federal Technological University Paraná](http://www.utfpr.edu.br/)
-* From [Paraná](https://pt.wikipedia.org/wiki/Paran%C3%A1)
-*  Quality Assurance Full-Stack [Tata Consultancy Services](https://www.tcs.com/) 
 
  ***
  <p align = "center">
