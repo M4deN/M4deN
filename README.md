@@ -38,12 +38,12 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
 <p align="center">
-  <a href="https://www.instagram.com/madenx/" target="_blank"><img  src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px"></a>
-  <a href="https:///www.linkedin.com/in/madenx/" target="_blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="45px" height="45px"></a>
-  <a href="https://github.com/M4deN" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="45px" height="45px"></a>
-  <a href="https://www.facebook.com/Madenxx/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-270-789828.png?f=avif&w=256" width="45px" height="45px"></a>
-  <a href="https://open.spotify.com/user/12184345488" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-spotify-11-432546.png?f=avif&w=256" height="45px"></a>
-  <a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-3691244-3073764.png?f=avif&w=256" height="45px"></a>
+  <a href="https://www.instagram.com/madenx/" target="_blank"><img  src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="43px" height="43px"></a>
+  <a href="https:///www.linkedin.com/in/madenx/" target="_blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="43px" height="43px"></a>
+  <a href="https://github.com/M4deN" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="43px" height="43px"></a>
+  <a href="https://www.facebook.com/Madenxx/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-270-789828.png?f=avif&w=256" width="43px" height="43px"></a>
+  <a href="https://open.spotify.com/user/12184345488" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-spotify-11-432546.png?f=avif&w=256" height="43px"></a>
+  <a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-3691244-3073764.png?f=avif&w=256" height="43px"></a>
      <!--<a href="https://www.linkedin.com/in/madenx/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>--> 
      <!--<a href="https://www.instagram.com/madenx" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>--> 
      <!--<a href="https://www.facebook.com/Madenxx/" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>--> 
