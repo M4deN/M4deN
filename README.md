@@ -67,12 +67,17 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
      <!--<a href="https://open.spotify.com/user/12184345488" target="_blank"><img alt="Spotify" width="27px" src="https://github.com/darksonic37/fix-spotify-icon/blob/master/src/images/spotify-linux-512.png?raw=true"></a>-->    
 </p>  
  <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=M4deN" alt="M4deN"/>       
+    <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4deN}/count.svg" /></p> 
+<br>
+</div>
+     <!--<img src="https://komarev.com/ghpvc/?username=M4deN" alt="M4deN"/>-->       
     <!--<a href="https://github.com/AlexDeSaran?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/AlexDeSaran" alt="Repos"/></a>--> 
     <!--<img src="https://badges.pufler.dev/years/AlexDeSaran" alt="Active_Years"/>-->  
-    <a href="https://github.com/M4deN/M4deN" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/M4deN" alt="commits"/>
-    <a href="https://github.com/M4deN/M4deN" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/M4deN/M4deN"/></a>
-    <a href="https://github.com/M4deN?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/M4deN?color=4C1&logo=github"></a>
+     <!--<a href="https://github.com/M4deN/M4deN" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/M4deN" alt="commits"/>--> 
+     <!--<a href="https://github.com/M4deN/M4deN" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/M4deN/M4deN"/></a>--> 
+     <!--<a href="https://github.com/M4deN?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/M4deN?color=4C1&logo=github"></a>--> 
     <!--<a href="https://github.com/M4deN/M4deN" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/M4deN/M4deN?label=Profile%20update&style=fflat-square"></a>--> 
     <!--<a href="https://github.com/AlexDeSaran" target="_blank"><img alt="AlexDeSaran" src="https://badges.pufler.dev/visits/AlexDeSaran/AlexDeSaran?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->   
 </p>
