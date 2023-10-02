@@ -5,11 +5,23 @@ I am an almost Software Engineer graduated from [Federal Technological Universit
 Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio/)
 
 ***
-<div align="center">
-  <a href="https://github.com/M4deN">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=radical"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&langs_count=8&theme=radical"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:101090,100:1d1d83&height=150&section=header&text=M4deN%20%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=%20%&descAlignY=50">
+   <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&count_private=true&hide_border=true&title_color=fffF&icon_color=fff&text_color=fff&bg_color=0d1117" alt=" github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117&langs_count=8" />
+</div> 
 </div>
+</div>
+
+  </div>
+  <div style="display: inline_block"><br>
+  
+<!--<div align="center">-->
+  <!--<a href="https://github.com/M4deN">-->
+  <!--<img height="172em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=radical"/>-->
+ <!--<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&langs_count=8&theme=radical"/>-->
+<!--</div>-->
 
  ***
  <p align = "center">
