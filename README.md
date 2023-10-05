@@ -19,6 +19,8 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:101090,100:1d1d83&height=120&section=footer"/>
+     
+***
 <!--<div align="center">-->
   <!--<a href="https://github.com/M4deN">-->
   <!--<img height="172em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=radical"/>-->
@@ -52,8 +54,6 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
      <!--<a href="mailto:alexdesaran@outlook.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>--> 
      <!--<a href="https://open.spotify.com/user/12184345488" target="_blank"><img alt="Spotify" width="27px" src="https://github.com/darksonic37/fix-spotify-icon/blob/master/src/images/spotify-linux-512.png?raw=true"></a>--> 
      <!--<div align="center">-->    
-
- ***
  
 <p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4deN}/count.svg" /></p> 
@@ -66,6 +66,7 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
   <a href="https://www.facebook.com/Madenxx/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-270-789828.png?f=avif&w=256" width="35px" height="35px"></a>
   <a href="https://open.spotify.com/user/12184345488" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-spotify-11-432546.png?f=avif&w=256" height="35px"></a>
   <a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-3691244-3073764.png?f=avif&w=256" height="35px"></a>
+  <a href="https://steamcommunity.com/id/Madexn/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-social-312-116346.png?f=webp&w=256" height="35px"></a>
  </p>  
  <p align="center"> 
     
