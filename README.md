@@ -19,14 +19,11 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
 <br>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:101090,100:1d1d83&height=120&section=footer"/>
-  
 <!--<div align="center">-->
   <!--<a href="https://github.com/M4deN">-->
   <!--<img height="172em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=radical"/>-->
  <!--<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&langs_count=8&theme=radical"/>-->
 <!--</div>-->
-
- ***
  <p align = "center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/><img   
 <img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="VSCode" width="30" height="30"/><img                                                                                            
@@ -48,28 +45,31 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain.svg" alt="gitlab" width="31" height="31"/><img  
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/file_type_mongo.svg" alt="mongo" width="34" height="34"/><img 
 </a>
-<div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
-</h3> 
-<p align="center">
+     <!--<a href="https://www.linkedin.com/in/madenx/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>--> 
+     <!--<a href="https://www.instagram.com/madenx" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>--> 
+     <!--<a href="https://www.facebook.com/Madenxx/" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>--> 
+     <!--<a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img alt="Discord" width="28px" src="https://github.com/SapphireDevs/discord-icons/blob/main/Discord%20Branding/Clyde/icon_clyde_blurple_RGB.png?raw=true"></a>--> 
+     <!--<a href="mailto:alexdesaran@outlook.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>--> 
+     <!--<a href="https://open.spotify.com/user/12184345488" target="_blank"><img alt="Spotify" width="27px" src="https://github.com/darksonic37/fix-spotify-icon/blob/master/src/images/spotify-linux-512.png?raw=true"></a>--> 
+     <!--<div align="center">-->    
+
+ ***
+ 
+<p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4deN}/count.svg" /></p> 
+<br>
+
+   <p align="center">
   <a href="https://www.instagram.com/madenx/" target="_blank"><img  src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="35px" height="35px"></a>
   <a href="https:///www.linkedin.com/in/madenx/" target="_blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="35px" height="35px"></a>
   <a href="https://github.com/M4deN" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="35px" height="35px"></a>
   <a href="https://www.facebook.com/Madenxx/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-270-789828.png?f=avif&w=256" width="35px" height="35px"></a>
   <a href="https://open.spotify.com/user/12184345488" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-spotify-11-432546.png?f=avif&w=256" height="35px"></a>
   <a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-3691244-3073764.png?f=avif&w=256" height="35px"></a>
-     <!--<a href="https://www.linkedin.com/in/madenx/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>--> 
-     <!--<a href="https://www.instagram.com/madenx" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>--> 
-     <!--<a href="https://www.facebook.com/Madenxx/" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>--> 
-     <!--<a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img alt="Discord" width="28px" src="https://github.com/SapphireDevs/discord-icons/blob/main/Discord%20Branding/Clyde/icon_clyde_blurple_RGB.png?raw=true"></a>--> 
-     <!--<a href="mailto:alexdesaran@outlook.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a>--> 
-     <!--<a href="https://open.spotify.com/user/12184345488" target="_blank"><img alt="Spotify" width="27px" src="https://github.com/darksonic37/fix-spotify-icon/blob/master/src/images/spotify-linux-512.png?raw=true"></a>-->    
-</p>  
+ </p>  
  <p align="center"> 
-    <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4deN}/count.svg" /></p> 
-<br>
+    
+***
 </div>
      <!--<img src="https://komarev.com/ghpvc/?username=M4deN" alt="M4deN"/>-->       
     <!--<a href="https://github.com/AlexDeSaran?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/AlexDeSaran" alt="Repos"/></a>--> 
