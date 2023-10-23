@@ -7,9 +7,9 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
 ***
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:101090,100:1d1d83&height=150&section=header&text=%20%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=%20%&descAlignY=50">
-   <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+   <div align="center">        
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&count_private=true&hide_border=true&title_color=fffF&icon_color=fff&text_color=fff&bg_color=0d1117" alt=" github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4deN&layout=compact&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=0d1117&langs_count=8" />
 </div> 
 </div>
 </div>
