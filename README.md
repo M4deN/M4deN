@@ -66,7 +66,7 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
   <a href="https://www.facebook.com/Madenxx/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-facebook-4062815-3357701.png?f=webp&w=256" width="33px" height="33px"></a>
   <a href="https://open.spotify.com/user/12184345488" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-spotify-11-432546.png?f=avif&w=256" height="33px"></a>
   <a href="https://discord.com/channels/@me/1122127208585105510" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-discord-3691244-3073764.png?f=avif&w=256" height="33px"></a>
-  <a href="https://steamcommunity.com/id/Madexn/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-social-312-116346.png?f=webp&w=256" height="33px"></a>
+  <!--<a href="https://steamcommunity.com/id/Madexn/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-social-312-116346.png?f=webp&w=256" height="33px"></a>-->
  </p>  
  <p align="center"> 
     
