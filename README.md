@@ -1,4 +1,6 @@
-### Hello, I'm Leandro A. Medeiros 🫡
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&pause=1000&color=666666&center=true&vCenter=true&width=320&lines=Hello%2C+I'm+Leandro+A.+Medeiros+🫡;QA+and+Test+Automation+💻;Test+Analyst+and+Software+Engineer" alt="Typing SVG" /></a>
+</p>
 
 I am an almost Software Engineer graduated from [Federal Technological University Paraná](http://www.utfpr.edu.br/), I am currently living in Londrina PR working as Quality Assurance Analyst at [Tata Consultancy Services](https://www.tcs.com/) fascinated by Test Automation and JavaScript, TypeScript and Cypress. A fan of good music, gardening, cycling, tennis and Liverpool FC.
 
