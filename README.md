@@ -59,7 +59,7 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4deN}/count.svg" /></p> 
 <br>
 
-   <p align="center">
+  <!-- <p align="center">
   <a href="https://www.instagram.com/madenx/" target="_blank"><img  src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="33px" height="33px"></a>
   <a href="https:///www.linkedin.com/in/madenx/" target="_blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="35px" height="35px"></a>
   <a href="https://github.com/M4deN" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/free-github-40-432516.png?f=webp&w=256" width="33px" height="33px"></a>
