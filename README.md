@@ -39,7 +39,6 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-original.svg" alt="android" width="35" height="35"/><img                              
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" alt="js" width="30" height="30"/><img 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/74220b6f8389ad5c5d9f68b2029d91460de2b374/icons/folder_type_e2e.svg" alt="e2e" width="37" height="37"/><img 
-<img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="postman" width="33" height="33"/><img 
 <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-plain.svg" alt="docker" width="38" height="38"/><img  
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/><img     
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/><img  
