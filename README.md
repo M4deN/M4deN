@@ -20,7 +20,7 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:363636,100:4F4F4F&height=120&section=footer"/>
      
-***
+
 <!--<div align="center">-->
   <!--<a href="https://github.com/M4deN">-->
   <!--<img height="172em" src="https://github-readme-stats.vercel.app/api?username=M4deN&show_icons=true&theme=radical"/>-->
@@ -54,7 +54,7 @@ Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio
      <!--<a href="https://open.spotify.com/user/12184345488" target="_blank"><img alt="Spotify" width="27px" src="https://github.com/darksonic37/fix-spotify-icon/blob/master/src/images/spotify-linux-512.png?raw=true"></a>--> 
      <!--<div align="center">-->    
  
-<p align="center"><b>Visitors Count</b></p>  
+ <!--<p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{M4deN}/count.svg" /></p> 
 <br>
 
