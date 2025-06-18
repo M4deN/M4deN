@@ -1,6 +1,6 @@
 ### Hello, I'm Leandro A. Medeiros 🫡
 
-I hold a degree in Software Engineering from the [Federal Technological University of Paraná](http://www.utfpr.edu.br/), and am currently pursuing a Master’s in Applied Computing. I live in Londrina, PR, and work as a Quality Assurance Analyst, passionate about Test Automation and technologies like JavaScript, TypeScript, and Cypress. I’m also a fan of good music — especially Day Wave — cycling, and Liverpool FC.
+I hold a degree in Software Engineering from the [Federal Technological University of Paraná](http://www.utfpr.edu.br/), and am currently pursuing a Master’s in Applied Computing. I live in Londrina, PR, and work as a Quality Assurance Analyst, passionate about Test Automation and technologies like JavaScript, TypeScript, and Cypress. I’m also a fan of good music, cycling, and Liverpool FC.
 
 Want to know more about me? Visit [My WebSite](https://m4den.github.io/Portfolio/)
 
